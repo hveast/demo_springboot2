@@ -1,0 +1,6 @@
+server :
+  port : 9091
+
+country : CN
+city : SHANGHAI
+info : "country1:${country},city1:${city}"
